@@ -334,7 +334,7 @@ Two commonly used techniques in statistical processing are:
 
 Statistical evaluation in NLP systems is used to evaluate the efficiency,
 accuracy and robustness. It can be done using the below methods that do 
-it in different ways [@www-nivre2002nlp]:
+it in different ways [@@www-mari2011nlp]:
 
 *	**Descriptive Statistics:** This method calculates Word error rate, 
   Accuracy rate, Recall and Precision
