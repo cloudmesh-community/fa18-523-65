@@ -1,4 +1,4 @@
-# Data analysis Of Yelp reviews :smiley: fa18-523-65, fa18-523-67
+# Data analysis Of Yelp reviews
 
 | Prajakta Patil, Sahithya Sridhar 
 | patilpr@iu.edu, sahsrid@iu.edu
