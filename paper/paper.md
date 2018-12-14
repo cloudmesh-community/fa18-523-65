@@ -1,4 +1,4 @@
-# Natural language text processing and Language generation :smiley: :exclamation: fa18-523-67, fa18-523-65
+# Natural language text processing and Language generation
 
 | Sahithya Sridhar, Prajakta Patil
 | sahsrid@iu.edu, patilpr@iu.edu
